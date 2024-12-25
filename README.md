@@ -1,4 +1,3 @@
-# Group 3 ARC Submission
 
 first run `python pre-installs.py` to install necessary folders, data and pretrained model checkpoint
 
